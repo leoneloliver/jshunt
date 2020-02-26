@@ -24,6 +24,7 @@
 }
 .product-list article strong{
     text-transform: capitalize;
+    font-size: 20px;
 }
 .product-list article a{
     height: 38px;
